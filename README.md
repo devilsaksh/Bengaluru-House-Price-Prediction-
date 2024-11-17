@@ -1,7 +1,5 @@
 # Bengaluru-House-Price-Prediction-
 
-# Bengaluru-House-Price-Prediction
-
 # Real Estate Price Prediction
 
 A machine learning-based web application for predicting real estate prices using features such as total square footage, number of bathrooms, number of bedrooms, and location. The application uses a neural network model built with TensorFlow to predict the price of a property.
